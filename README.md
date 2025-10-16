@@ -69,3 +69,9 @@ Add pagination for large result sets
 Implement better error handling for network issues
 Add a loading indicator while data is being fetched
 Improve artist page design (e.g., audio previews, related links)
+
+## Author
+
+Tri Nguyen
+Noor A.
+Jacob A-R.
